@@ -1,2 +1,2 @@
 # Estudos
- html css javascript isso mesmo!
+ html css javascript
