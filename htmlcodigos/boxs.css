@@ -1,0 +1,13 @@
+h1{
+    width: 300px;
+    height: 75px;
+    background-color: whitesmoke;
+    border-style: groove;
+    border-color: black;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+}
+

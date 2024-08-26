@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+ id identifica cada estrutura do html, pra que elementos de formatações diferentes possam ser modificados de forma diferente, e não ao mesmo tempo.
+todo ID no html, em css é #, e pra CLASS em css é (.)
+A classe é utilizada quando o intuito é adaptar varias formatações, enquanto o ID é apenas individual.
+exemplo: id="h1principal"
+exemplo:class = "titulos2"
+com o span, podemos fazer isso para trechos de um texto
+pseudo-classe são classes que são ativadas quando um evento acontece
+com div > p(por exemplo) você pode modificar os filhos dentro de uma div
+
+--IDs--
+# -> forma de chamar
+id identifica cada estrutura do html, pra que elementos de formatações diferentes possam ser modificados de forma diferente, e não ao mesmo tempo
+
+--CLASSES--
+. -> forma de chamar
+A classe é utilizada quando o intuito é adaptar varias formatações, enquanto o ID é apenas individual.
+
+--CHILDRENS(FILHOS)--
+São elementos que estão dentro de outros elementos
+>  -> forma de chamar
+Exemplo:
+criando um paragrafo dentro de uma div você pode chamar apenas o paragrafo
+--PSEUDO CLASSES--
+: -> forma de chamar
+Definem estados de certos elementos
+TIPOS:
+active(quando algo é clicado)
+hover(quando o mouse fica em cima do texto)
+visited(quando um link ja foi visitado)
+
+--PSEUDO ELEMENTOS--
+:: -> forma de chamar
+trocando o conteúdo periferico do elemento
+TIPOS:
+after(consegue alocar qualquer tipo de texto após o conteúdo principal)
+before(consegue alocar qualquer tipo de texto antes do conteúdo principal)
