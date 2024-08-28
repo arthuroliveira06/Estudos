@@ -1,0 +1,25 @@
+
+.quadrado{
+    display: inline-block;
+    border:  2px solid black;
+    border-radius:  10px;
+    box-shadow: 4px 4px 4px rgb(0, 0, 0 , 0.2);
+    width: 300px;
+    height: 300px;
+}
+
+#q1{
+    background-color: aqua;
+}
+
+#q2{
+    background-image: linear-gradient(white, black);
+}
+
+#q3{
+    background-image: url(gragas.jpg);
+}
+
+#q3:hover{
+    opacity: 0.5;
+}
